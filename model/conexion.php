@@ -6,7 +6,7 @@
     {
 
         
-        private $mysqli = '';
+        private $mysqli = 'msql()';
         private $usuario = 'hpvbatemnrkwkq';
         private $clave = '20c371f668e4e654567466ad6d91c7e481b17ed494162440ef9a91e9512597c1';
         private $server = 'ec2-52-6-143-153.compute-1.amazonaws.com';

@@ -27,7 +27,7 @@ $('#login').click(function(){
         swal('Error', 'Por favor ingrese todos los campos', 'error');
       }else if(res == 'error_2'){
      
-        swal('Error', 'Por favor ingrese un email valido', 'warning');
+        swal('Error', 'Por favor ingrese un usuario valido', 'warning');
       }else if(res == 'error_3'){
         swal('Error', 'El usuario y contraseña que ingresaste es incorrecto', 'error');
       }else{
